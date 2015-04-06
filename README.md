@@ -13,7 +13,6 @@ To organize the meetups there are a certain things that need to be taken care of
 | Organize a restaurant                   | @martinheidegger          |
 | Take videos                             | -                         |
 | Take photos                             | -                         |
-|-----------------------------------------|---------------------------|
 
 If you feel like you want to help out. Just add an issue on the right
 side. 

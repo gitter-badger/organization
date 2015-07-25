@@ -1,5 +1,7 @@
 # Meetup Organization
 
+[![Join the chat at https://gitter.im/owddm/organization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/owddm/organization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 To organize the meetups there are a certain things that need to be taken care of. This is a list of the tasks with the person taking care of it:
 
 | Task                                    | Person that deals with it |
